@@ -1,0 +1,26 @@
+#BlueJ package file
+dependency1.from=Mp3
+dependency1.to=Node
+dependency1.type=UsesDependency
+package.editor.height=400
+package.editor.width=560
+package.editor.x=424
+package.editor.y=117
+package.numDependencies=1
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=50
+target1.name=Mp3
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=60
+target1.y=10
+target2.height=50
+target2.name=Node
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=270
+target2.y=110

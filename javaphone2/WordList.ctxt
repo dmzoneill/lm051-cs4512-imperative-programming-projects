@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WordList()
+comment1.params=capacity
+comment1.target=WordList(int)
+comment2.params=additionalCapacity\ supplementaryWords
+comment2.target=WordList(int,\ String)
+comment3.params=word
+comment3.target=void\ insert(String)
+comment4.params=word
+comment4.target=int\ find(String)
+comment5.target=void\ display()
+comment6.target=int\ capacity()
+comment7.target=int\ used()
+numComments=8

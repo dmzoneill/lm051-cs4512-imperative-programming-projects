@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ addToDisplay(String)
+comment0.text=\nAdd\ text\ to\ the\ phone's\ display.\n@param\ s\ The\ string\ to\ show.\n\n
+comment1.target=void\ removeFromDisplay()
+comment1.text=\nRemove\ the\ rightmost\ character\ (NOTE\ one\ character)\ from\ the\ phone's\ display.\n\n\n
+comment2.params=s
+comment2.target=void\ setDisplay(String)
+comment2.text=\nSet\ the\ display\ to\ show\ the\ given\ text.\n@param\ s\ The\ text\ to\ display.\n\n
+comment3.target=String\ getDisplay()
+comment4.target=void\ clearDisplay()
+comment4.text=\nClear\ the\ phone's\ display.\n\n
+comment5.target=void\ clearItemList()
+comment5.text=\nClear\ the\ list\ of\ items.\n\n
+comment6.params=s
+comment6.target=void\ addListItem(String)
+comment6.text=\nAdd\ a\ new\ item\ to\ the\ displayed\ list.\nThe\ added\ item\ is\ not\ selected\ by\ default.\n@param\ s\ The\ text\ to\ be\ added\ to\ the\ list.\n\n
+numComments=7

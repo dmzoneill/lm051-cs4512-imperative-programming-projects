@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ErrorProvider()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ ErrorProvider\n\n
+comment1.params=txt
+comment1.target=void\ sendText(Text)
+comment1.text=\nSend\ the\ given\ text.\n@param\ txt\ The\ text\ to\ be\ sent.\n\n
+numComments=2

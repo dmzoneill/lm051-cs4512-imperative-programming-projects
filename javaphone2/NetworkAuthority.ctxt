@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=phone
+comment0.target=Provider\ connect(AbstractMobile)
+comment0.text=\nAllow\ a\ phone\ to\ connect\ to\ the\ appropriate\ provider.\n@return\ The\ provider\ if\ one\ is\ found,\ null\ otherwise.\n@throws\ NoProviderException\ If\ the\ phone\ number\ does\ not\ have\ a\ valid\ prefix.\n\n
+comment1.params=number
+comment1.target=Provider\ findProvider(String)
+comment1.text=\nIdentify\ the\ provider\ for\ the\ given\ number.\n@paran\ number\ The\ number\ to\ be\ looked\ up.\n@return\ The\ provider\ associated\ with\ the\ number.\n@throws\ NoProviderException\ If\ the\ number\ does\ not\ have\ a\ valid\ prefix.\n\n
+comment2.target=NetworkAuthority()
+comment2.text=\nConstructor\ for\ objects\ of\ class\ NetworkAuthority.\nPrevent\ external\ instantiation.\n\n
+numComments=3

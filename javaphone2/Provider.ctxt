@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Provider(String)
+comment0.text=\nConstruct\ a\ mobile\ service\ provider.\n@param\ name\ The\ name\ of\ the\ service\ provider.\n\n
+comment1.target=String\ getName()
+comment1.text=\n@return\ The\ name\ of\ this\ provider.\n\n
+comment2.params=phone
+comment2.target=void\ addToNetwork(AbstractMobile)
+comment2.text=\nAdd\ the\ given\ phone\ to\ this\ network.\n\n
+comment3.params=txt
+comment3.target=void\ sendText(Text)
+comment3.text=\nSend\ the\ given\ text.\n@param\ txt\ The\ text\ to\ be\ sent.\n@throws\ NoProviderException\ If\ the\ recipient's\ phone\ number\ does\ not\nhave\ a\ valid\ prefix.\n@throws\ InvalidNumberException\ If\ the\ number\ has\ a\ valid\ prefix\ but\nis\ not\ recognised.\n\n
+numComments=4

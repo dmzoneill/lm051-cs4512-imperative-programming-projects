@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=timeStamp\ from\ to\ message
+comment0.target=Text(long,\ String,\ String,\ String)
+comment0.text=\nCreate\ a\ text\ from\ sender\ to\ the\ given\ recipient,\ncontaining\ the\ given\ message.\n@param\ from\ The\ sender\ of\ this\ item.\n@param\ to\ The\ intended\ recipient\ of\ this\ item.\n@param\ message\ The\ text\ of\ the\ message\ to\ be\ sent.\n\n
+comment1.target=long\ getTimeStamp()
+comment1.text=\n@return\ The\ timeStamp\ of\ this\ message.\n\n
+comment2.target=String\ getFrom()
+comment2.text=\n@return\ The\ sender\ of\ this\ message.\n\n
+comment3.target=String\ getTo()
+comment3.text=\n@return\ The\ intended\ recipient\ of\ this\ message.\n\n
+comment4.target=String\ getMessage()
+comment4.text=\n@return\ The\ text\ of\ the\ message.\n\n
+numComments=5

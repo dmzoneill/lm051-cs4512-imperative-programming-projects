@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ContactList()
+comment1.params=Str
+comment1.target=void\ insert(String)
+numComments=2
