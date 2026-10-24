@@ -32,7 +32,11 @@ public class Mp3 {
   public void insert(String filename) {
     if (Node.insert(filename) == false)
       System.out.println(
-          spacer + spacer + "Sucessfully inserted " + filename + " into the library"); // codespell:ignore sucessfully
+          spacer
+              + spacer
+              + "Sucessfully inserted "
+              + filename
+              + " into the library"); // codespell:ignore sucessfully
     else System.out.println(spacer + spacer + "Duplicate " + filename + " detected");
   }
 
@@ -71,7 +75,12 @@ public class Mp3 {
 
     if (success == true)
       System.out.println(
-          spacer + spacer + "Sucessfully removed " + inputTrack + " by " + inputArtist); // codespell:ignore sucessfully
+          spacer
+              + spacer
+              + "Sucessfully removed "
+              + inputTrack
+              + " by "
+              + inputArtist); // codespell:ignore sucessfully
     else
       System.out.println(spacer + spacer + "Unable to find " + inputTrack + " by " + inputArtist);
 
