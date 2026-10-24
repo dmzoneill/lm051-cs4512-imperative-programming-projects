@@ -245,8 +245,7 @@ public class Mp3Database extends JFrame implements ActionListener, KeyListener {
     p.add(c, gc);
   }
 
-  /** Updates the textarea withe current listing */
-  // codespell:ignore withe
+  /** Updates the textarea withe current listing // codespell:ignore withe */
   // codespell:ignore withe
   public void viewerRefresh() {
     this.viewer.setText("");
@@ -608,8 +607,10 @@ public class Mp3Database extends JFrame implements ActionListener, KeyListener {
     this.musicDirectoryReader = new DirectoryReader(this.musicDirectory);
   }
 
-  /** Reads the result of the recurisve directory search and puts the files into the library */
-  // codespell:ignore recurisve
+  /**
+   * Reads the result of the recurisve directory search and puts the files into the library //
+   * codespell:ignore recurisve
+   */
   // codespell:ignore recurisve
   public void musicLibrarySetup() {
     String title;
