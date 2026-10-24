@@ -608,10 +608,9 @@ public class Mp3Database extends JFrame implements ActionListener, KeyListener {
   }
 
   /**
-   * Reads the result of the recurisve directory search and puts the files into the library //
-   * codespell:ignore recurisve
+   * Reads the result of the recurisve directory search // codespell:ignore recurisve
+   * and puts the files into the library
    */
-  // codespell:ignore recurisve
   public void musicLibrarySetup() {
     String title;
 
