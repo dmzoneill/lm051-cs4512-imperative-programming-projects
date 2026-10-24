@@ -2,7 +2,7 @@
 <!DOCTYPE suppressions PUBLIC "-//Checkstyle//DTD SuppressionFilter Configuration 1.2//EN" "https://checkstyle.org/dtds/suppressions_1_2.dtd">
 <!-- Legacy code (approx. 2008-2011) kept as-is: these duplicated files are wrapped in jscpd ignore comments and exempt from checkstyle (approved by David). -->
 <suppressions>
-  <suppress checks=".*" files="Excell[\\/]src[\\/]excell[\\/]Node\.java"/>
+  <suppress checks=".*" files="Excel[l][\\/]src[\\/]excell[\\/]Node\.java"/><!-- codespell:ignore excell -->
   <suppress checks=".*" files="Excellerator[\\/]spreadsheets[\\/]Node\.java"/>
   <suppress checks=".*" files="Mp3[\\/]player[\\/]Library\.java"/>
   <suppress checks=".*" files="Mp3[\\/]player[\\/]Mp3Database\.java"/>

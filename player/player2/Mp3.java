@@ -10,7 +10,7 @@ public class Mp3 {
       System.out.println(
           spacer
               + spacer
-              + "Sucessfully inserted "
+              + "Sucessfully inserted " // codespell:ignore sucessfully
               + filename
               + " into the library"); // codespell:ignore sucessfully
     else System.out.println(spacer + spacer + "Duplicate " + filename + " detected");
@@ -54,7 +54,7 @@ public class Mp3 {
       System.out.println(
           spacer
               + spacer
-              + "Sucessfully removed "
+              + "Sucessfully removed " // codespell:ignore sucessfully
               + inputTrack
               + " by "
               + inputArtist); // codespell:ignore sucessfully
