@@ -1,0 +1,27 @@
+# Vendored third-party: Java ID3 tag library (c) 2004-2005 Gary Dusbabek, see file headers.
+Mp3/player/id3/
+
+# Generated: NetBeans build output (build/classes copies of src/ plus compiled classes) and the dist jar.
+Excell/build/
+Excell/dist/
+
+# Generated: javadoc HTML output for the javaphone2 BlueJ project.
+javaphone2/doc/
+
+# Generated: BlueJ class context files.
+*.ctxt
+
+# Course-provided phone simulator skeleton classes (CS4512, by Dermot Shinners-Kennedy, UL, and
+# David J. Barnes, University of Kent; see @author tags), copied into both phone projects.
+javaphone2/AbstractMobile.java
+javaphone2/InvalidNumberException.java
+javaphone2/NoProviderException.java
+javaphone2/Nokia6110nV2.java
+javaphone2/PhoneInterface.java
+javaphone2/Provider.java
+javaphone2/Text.java
+javaphone2/phoneGUI.java
+javaphoneW1/Nokia6110n.java
+javaphoneW1/Nokia6110nV2.java
+javaphoneW1/SamsungTocco.java
+javaphoneW1/SonyW890i.java
