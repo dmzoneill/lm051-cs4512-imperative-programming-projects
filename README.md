@@ -1,5 +1,9 @@
 # CS4512 Imperative Programming Projects
 
+<p align="center">
+  <img src=".github/logo.png" alt="lm051-cs4512-imperative-programming-projects logo" width="128" />
+</p>
+
 Java assignments and exercises from the CS4512 Imperative Programming
 module of the LM051 degree at the University of Limerick.
 
